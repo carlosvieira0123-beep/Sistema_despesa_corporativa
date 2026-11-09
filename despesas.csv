@@ -1,0 +1,6 @@
+codigo,funcionario,viagem,data,categoria,descricao,valor,status
+1001,Carlos,Mato Grosso,10/10/2026,Alimentacao,Almoco,60.0,Pendente
+1002,Carlos,Amazonas,10/09/2026,Alimetacao,Janta,65.0,Pendente
+1003,Teste,Bahia,10/10/2026,Alimentacao,Almoco,55.0,Pendente
+1004,Teste,Rio de Janeiro,10/09/2026,Ferramenta,153,153.0,Pendente
+1005,Carlos,Rio Grande do SUl,10/11/2026,Ferramenta,Alicate,37.0,Pendente
